@@ -1,8 +1,8 @@
 # Task on GitHub Topic
-
+i
 1. Add user `softservedata` to this repository.
-
-2. Create branch `develop` as default branch.
+## hрpp
+2. Create branch `develop` as default branch. 2
 
 3. Protect branches `main` and `develop` with these rules:
 - user can't merge to both branches without pull request
